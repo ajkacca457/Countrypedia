@@ -1,0 +1,27 @@
+
+#earth {
+  width:50px;
+  height:50px;
+  margin-right: 10px;
+}
+
+body {
+  background-color: rgba(251, 192, 227, 1);
+}
+
+.flag {
+  width:100px;
+  height:50px;
+}
+
+.output {
+  background-color: white;
+  border-radius: 5px;
+  color:black;
+  padding: 10px;
+}
+
+#search {
+  padding-left: 10px;
+  height: 40px;
+}
