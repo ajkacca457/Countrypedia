@@ -37,7 +37,7 @@ Linkedin: https://www.linkedin.com/in/avijit-karmaker-8738a54a/
 
 
 
-🤝 <h2>Contributions</h2>
+<h2>🤝Contributions</h2>
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the issues page.
@@ -45,5 +45,5 @@ Feel free to check the issues page.
 Show your support
 Give a ⭐️ if you like this project!
 
-📝 <h2>License</h2>
+<h2>📝License</h2>
 This project is a personal project of Avijit.
